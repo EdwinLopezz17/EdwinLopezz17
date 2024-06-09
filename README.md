@@ -1,45 +1,75 @@
-# Edwin Abdias López Huaman - Desarrollador de Software
+# 💻 Edwin Lopez - Full Stack Developer
 
-![Perfil Profesional](https://via.placeholder.com/150) <!-- Puedes reemplazar este enlace con tu imagen de perfil -->
-
----
-
-## Principales Habilidades y Conocimientos
-
-| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) | ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) |
-|:---:|:---:|:---:|:---:|:---:|
-| **Python** | **JavaScript** | **Java** | **C++** | **HTML5** |
-| Desarrollo de Back-End | Desarrollo Front-End Interactivo | Programación Orientada a Objetos | Eficiencia y Rendimiento | Diseño Web Semántico |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin%20Lopez-blue)](https://linkedin.com/in/edwin-lopez-25a749271)
+[![Email](https://img.shields.io/badge/Email-edwinabdias%40gmail.com-red)](mailto:edwinabdias%40gmail.com)
 
 ---
 
-## Resumen de Experiencia
+## Sobre Mí
 
-### AgriWatch - Universidad Peruana de Ciencias Aplicadas
-- **Rol:** Desarrollador de Back-End
-- **Responsabilidades:** Desarrollo de funcionalidades de backend, documentación técnica y creación de video demostrativo del producto.
-- **Resultados:** Cumplimiento del 100% de las responsabilidades asignadas a tiempo.
-
-### Proyectos Destacados
-- **Sistema de Monitoreo Agrícola:** Implementación de algoritmos de análisis de datos para optimizar el riego y la fertilización en cultivos.
-- **Aplicación de Gestión de Inventarios:** Desarrollo de una aplicación full-stack para la gestión de inventarios en tiempo real.
+Soy un desarrollador Full Stack con experiencia en una amplia variedad de lenguajes de programación y frameworks. Me apasiona crear aplicaciones web eficientes y escalables, utilizando las mejores prácticas y tecnologías modernas.
 
 ---
 
-## Certificaciones y Cursos
+## 🛠️ Habilidades Técnicas
 
-- **Desarrollo Web Full Stack** - [Plataforma de Cursos](https://example.com)
-- **Inteligencia Artificial y Machine Learning** - [Plataforma de Cursos](https://example.com)
-- **Arquitectura de Software** - [Plataforma de Cursos](https://example.com)
+### Frontend
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"/>
+</p>
+
+### Bases de Datos
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+</p>
 
 ---
 
-## Contacto
+## 🌟 Proyectos Destacados
 
-- **Correo Electrónico:** edwin.lopez@example.com
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/edwinlopez)
-- **GitHub:** [Perfil de GitHub](https://github.com/edwinlopez)
+### [Flupic](https://www.flupic.com)
+Desarrollador Frontend para [flupic.com](https://www.flupic.com), una plataforma para conectar influencers con empresas.
+
+### [RentState](https://www.rentstate.com)
+Desarrollar backend para [rentstate.com](https://www.rentstate.com), una plataforma que permite rentar inmuebles online.
 
 ---
 
-![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Logo_UPC.png) <!-- Puedes reemplazar este enlace con el logo de tu universidad -->
+## 📚 Educación
+
+- **Software Enginner** - Universidad Peruana de Ciencias Aplicadas
+- **Certificación Full Stack Development** - University of Michigan 
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edwinlopezz17&show_icons=true&theme=radical)
+
+
+---
+
+¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones. 😊
